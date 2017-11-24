@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Futuris Cyrillic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Futuris Cyrillic'), local('Futuris-Cyrillic'),
+        url(../fonts/futuris-cyrillic_ee4d11ac5fb866df813ef89bb4b5c16e.woff) format('woff'),
+        url(../fonts/futuris-cyrillic_ee4d11ac5fb866df813ef89bb4b5c16e.ttf) format('truetype');
+}
+
 body{
 	background: #e5e5e5;
 	font-family: 'Ubuntu', sans-serif;
